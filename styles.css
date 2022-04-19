@@ -1,4 +1,4 @@
-
+﻿
 *,
 *::before,
 *::after {
@@ -69,8 +69,15 @@ html{
 }
 
 body {
-	background-image: url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/dark_wood.png');
+	background: radial-gradient(gray, black);
     font-family: "Bungee", verdana, sans serif;
+}
+
+#imagem-fundo {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background: url(img/background-gray.jpg);
 }
 
 /**********************************/
