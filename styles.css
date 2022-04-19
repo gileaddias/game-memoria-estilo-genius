@@ -203,7 +203,7 @@ body {
     text-transform: uppercase;
 }
 
-.gui__label--switch {
+.gui__label-switch {
     margin: 0;
     padding-top: 1.75rem;
 }
@@ -221,7 +221,7 @@ body {
 
 
 .gui__btn:active {
-    transform: translate(0, .3rem);
+    transform: translate(0, .2rem);
     box-shadow: none;
 }
 
