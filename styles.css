@@ -300,6 +300,17 @@ footer {
 }
 
 
+
+@media (max-width: 600px){
+    html {
+        font-size: 45%;
+    }
+}
+
+
+
+
+
 /*body {
     margin: 0;
     background-color: rgb(31, 34, 33)
